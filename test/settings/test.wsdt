@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<Workspace>
+  <ConfigDictionary>
+    
+  <CurrentConfigs><Project>test/Debug</Project></CurrentConfigs></ConfigDictionary>
+  <Desktop>
+    <Static>
+      <Workspace>
+        <ColumnWidths>
+          
+          
+          
+          
+        <Column0>219</Column0><Column1>27</Column1><Column2>27</Column2><Column3>18476800</Column3></ColumnWidths>
+      </Workspace>
+    <Build><PreferedWindows><Position>3</Position><ScreenPosX>0</ScreenPosX><ScreenPosY>0</ScreenPosY><Windows/></PreferedWindows><ColumnWidth0>26</ColumnWidth0><ColumnWidth1>1019</ColumnWidth1><ColumnWidth2>271</ColumnWidth2><ColumnWidth3>67</ColumnWidth3></Build><Debug-Log><PreferedWindows><Position>0</Position><ScreenPosX>0</ScreenPosX><ScreenPosY>0</ScreenPosY><Windows/></PreferedWindows></Debug-Log><SourceBrowser><PreferedWindows><Position>4</Position><ScreenPosX>1027</ScreenPosX><ScreenPosY>526</ScreenPosY><Windows/></PreferedWindows></SourceBrowser><TerminalIO/><Find-in-Files><ColumnWidth0>81</ColumnWidth0><ColumnWidth1>11</ColumnWidth1><ColumnWidth2>139</ColumnWidth2></Find-in-Files></Static>
+    <Windows>
+      
+    <Wnd0>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-28051-15070</Identity>
+            <TabName>Workspace</TabName>
+            <Factory>Workspace</Factory>
+            <Session>
+              
+            <NodeDict><ExpandedNode>test</ExpandedNode><ExpandedNode>test/main.c</ExpandedNode></NodeDict></Session>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd0><Wnd1><Tabs><Tab><Identity>TabID-20927-30513</Identity><TabName>Find in Files</TabName><Factory>Find-in-Files</Factory><Session/></Tab><Tab><Identity>TabID-31383-30317</Identity><TabName>Debug Log</TabName><Factory>Debug-Log</Factory><Session/></Tab><Tab><Identity>TabID-15502-484</Identity><TabName>Build</TabName><Factory>Build</Factory><Session/></Tab></Tabs><SelectedTab>2</SelectedTab></Wnd1></Windows>
+    <Editor>
+      
+      
+      
+      
+    <Pane><Tab><Factory>TextEditor</Factory><Filename>C:\Program Files (x86)\IAR Systems\Embedded Workbench 5.0\avr\inc\iom8515.h</Filename><XPos>0</XPos><YPos>45</YPos><SelStart>1216</SelStart><SelEnd>1216</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>D:\AVRprogram\test\main.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>1768</SelStart><SelEnd>1768</SelEnd></Tab><ActiveTab>1</ActiveTab></Pane><ActivePane>0</ActivePane><Sizes><Pane><X>1000000</X><Y>1000000</Y></Pane></Sizes><SplitMode>1</SplitMode></Editor>
+    <Positions>
+      
+      
+      
+      
+      
+    <Top><Row0><Sizes><Toolbar-0667fb78><key>iaridepm.enu1</key></Toolbar-0667fb78></Sizes></Row0></Top><Left><Row0><Sizes><Wnd0><Rect><Top>-2</Top><Left>-2</Left><Bottom>827</Bottom><Right>293</Right><x>-2</x><y>-2</y><xscreen>-3448853</xscreen><yscreen>-1937025</yscreen><sizeHorzCX>-2147480074</sizeHorzCX><sizeHorzCY>-2147477826</sizeHorzCY><sizeVertCX>183686</sizeVertCX><sizeVertCY>919069</sizeVertCY></Rect></Wnd0></Sizes></Row0></Left><Right><Row0><Sizes/></Row0></Right><Bottom><Row0><Sizes><Wnd1><Rect><Top>-2</Top><Left>-2</Left><Bottom>30</Bottom><Right>1608</Right><x>-2</x><y>-2</y><xscreen>1610</xscreen><yscreen>-1937025</yscreen><sizeHorzCX>1002491</sizeHorzCX><sizeHorzCY>-2147477826</sizeHorzCY><sizeVertCX>-2147480074</sizeVertCX><sizeVertCY>-2147477826</sizeVertCY></Rect></Wnd1></Sizes></Row0></Bottom><Float><Sizes/></Float></Positions>
+  </Desktop>
+</Workspace>
+
+
